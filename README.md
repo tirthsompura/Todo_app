@@ -1,4 +1,4 @@
-# TodoApp (Flutter)
+# TodoApp - Flutter
 
 A modern Flutter Todo app built with Bloc and Hive.  Includes a timer for each task, start/pause/stop controls, a clean bottom sheet form for add/edit, and a full details page with live tracking
 
