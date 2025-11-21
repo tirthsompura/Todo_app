@@ -9,20 +9,20 @@ A modern Flutter Todo app built with Bloc and Hive.  Includes a timer for each t
 
 ## Features
 
-#1. Todo List Page (Home Screen)
+1. Todo List Page (Home Screen)
 - Displays all todos with title, short description, status, timer.
 - Supports start, pause, stop, mark done, and delete.
 - Shows live running timer for active todos.
 - Opens Add/Edit Todo Form in a bottom sheet.
 
-#2. Add / Edit Todo (BottomSheet)
+2. Add / Edit Todo (BottomSheet)
 - Add new todos or edit existing ones.
 - Input fields: Title, Description
 - Time (minutes & seconds) — up to 5 minutes
 - Validates input before saving.
 - Saves todo to local database (Hive).
 
-#3. Todo Details Page
+3. Todo Details Page
 - Shows full information about the selected todo.
 - Displays live running timer.
 - Includes Play, Pause, Stop controls.
